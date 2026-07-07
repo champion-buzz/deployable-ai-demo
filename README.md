@@ -12,7 +12,7 @@ The page has a small question box. It gives sample answers for:
 - tool-using agents
 - evals
 
-It is not connected to a real backend. It is meant to be a lightweight demo page that recruiters can open quickly.
+It is not connected to a real backend.
 
 ## Tech Used
 
@@ -65,9 +65,6 @@ One simple way to deploy a similar static project:
 4. Choose the main branch.
 5. Save and wait for GitHub to publish the link.
 
-## What I Learned
-
-This project helped me practice making a demo that is easy to host and easy to explain.
 
 ## Future Improvements
 
