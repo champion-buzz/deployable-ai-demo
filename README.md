@@ -51,7 +51,13 @@ http://localhost:8080
 
 ## Deploy With GitHub Pages
 
-One simple way to deploy:
+This demo is deployed here:
+
+```text
+https://champion-buzz.github.io/deployable-ai-demo/
+```
+
+One simple way to deploy a similar static project:
 
 1. Push this project to GitHub.
 2. Go to repo settings.
@@ -69,4 +75,4 @@ This project helped me practice making a demo that is easy to host and easy to e
 - Add screenshots
 - Add more sample questions
 - Improve mobile layout
-- Add the live link after deployment
+- Add a real backend connection later
